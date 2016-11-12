@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CarrouselLayout">
+
+        <attr name="autoRotation" format="boolean"/>
+        <attr name="rotationTime" format="integer"/>
+        <attr name="r" format="dimension"/>
+
+        <attr name="rotateDirection">
+            <enum name="clockwise" value="0"/>
+            <enum name="anticlockwise" value="1"/>
+        </attr>
+
+    </declare-styleable>
+
+</resources>
