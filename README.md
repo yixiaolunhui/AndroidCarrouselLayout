@@ -9,6 +9,10 @@ a carrousel layout for android
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel05.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel06.gif?raw=true)
 
+#Example
+
+[app-debug.apk](http://fir.im/bj45?release_id=5827dbc0959d697e2d001263)
+
 #How to Use
 
 gradle
