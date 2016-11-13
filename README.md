@@ -7,6 +7,7 @@ a carrousel layout for android
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel03.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel04.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel05.gif?raw=true)
+![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel06.gif?raw=true)
 
 #How to Use
 
