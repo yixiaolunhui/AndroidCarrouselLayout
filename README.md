@@ -1,7 +1,8 @@
 # AndroidCarrouselLayout
 a carrousel layout for android
 
-#Preview
+# Preview
+
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel01.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel02.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel03.gif?raw=true)
@@ -9,11 +10,11 @@ a carrousel layout for android
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel05.gif?raw=true)
 ![image](https://github.com/dalong982242260/AndroidCarrouselLayout/blob/master/gif/carrousel06.gif?raw=true)
 
-#Example
+# Example
 
 [app-debug.apk](http://fir.im/bj45?release_id=5827dbc0959d697e2d001263)
 
-#How to Use
+# How to Use
 
 gradle
 
